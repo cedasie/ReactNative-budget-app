@@ -28,8 +28,9 @@ To get started with this project, clone the repository and install the required 
 
 ```bash
 git clone <your-repository-url>
-cd Budget-Buddy-App
+cd Budget-App
 ```
 
 # budget-app
+
 # ReactNative-budget-app
